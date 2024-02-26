@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+nav{
+    background-color: rgb(212, 127, 7);
+    position: static;
+}
+nav div img{
+    max-width: 2%;
+}
+nav div a{
+    
+    color: white;
+}
+img#logo{
+    width: 50vw;
+    
+}
+.servico{
+    padding: auto;
+    align-items: center;
+    text-align: justify;
+    margin: auto;
+}
+section p{
+  display: flex;
+    padding: 30px;
+    align-items: center;
+    text-align: justify;
+}
+section img{
+   
+    height: 15%;
+    border-radius: 50%;
+    padding: 30px;
+    align-items: center;
+}
+footer{
+    background-color: rgb(212, 127, 7);
+    color: white;
+}
